@@ -49,7 +49,7 @@ video{
     text-align: center;
     border-radius: 50px;
     cursor: pointer;
-    text-shadow: 0 0 1px #333;
+    text-shadow: 0 0 1px rgb(255, 255, 255);
     display: none;
 }
 .divider-general{
@@ -150,7 +150,7 @@ video{
     background-color: rgba(5, 42, 112, 0.97);
     color: #fff;
     z-index: 99999;
-    border-top: 1px solid rgba(255, 254, 254, 0.5);
+    border-top: 1px solid rgb(249, 247, 247);
     padding: 20px 0;
     opacity: 0;
     pointer-events: none;
@@ -222,14 +222,14 @@ video{
     color: #fff;
 }
 .links-footer li a:hover{
-    color: #FFCA28;
+    color: #ffffff;
     text-decoration: none;
 }
 .links-footer li a:active,
 .links-footer li a:focus{
     outline: none;
     text-decoration: none;
-    color: #FFCA28;
+    color: #f5f5f5;
 }
 /*=======================================================================================================
 =                                              Estilos index                                            =
@@ -247,7 +247,7 @@ video{
     -webkit-transform: rotate(-20deg);
     display: block;
     text-align: center;
-    color: #B0B0B0;
+    color: #ffffff;
 }
 /************** Sitios de la institución ***************/
 .important-links-index{
@@ -256,7 +256,7 @@ video{
     height: auto;
 }
 .important-links-index a{
-    border: 1px solid #737373;
+    border: 1px solid #000000;
     background-color: transparent;
     height: 130px;
     width: 130px;
@@ -329,7 +329,7 @@ video{
     right: 0;
     width: 270px;
     border-left: 1px solid #EFCDCD;
-    background-color: #F8F8F8;
+    background-color: #f4f4f4;
 }
 .scroll-navigation-ins ul li{
     display: block;
@@ -420,7 +420,7 @@ video{
     -moz-transform: scale(1.2);
     -ms-transform: scale(1.2);
     -webkit-transform: scale(1.2);
-    color: #333;
+    color: rgb(255, 255, 255);
 }
 .tile-gallery a:active,
 .tile-gallery a:focus{
