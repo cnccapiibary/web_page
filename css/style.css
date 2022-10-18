@@ -43,7 +43,7 @@ video{
     background: transparent;
     width: 29px;
     height: auto;
-    color: #00897B;;
+    color: #ffffff;;
     line-height: 25px;
     font-size: 30px;
     text-align: center;
@@ -272,8 +272,8 @@ video{
 }
 .important-links-index a:hover{
     text-decoration: none;
-    background-color: #2E7D32;
-    border: 1px solid #F57C00;
+    background-color: #184488;
+    border: 1px solid #184488;
     transform: scale(1.2);
     -moz-transform: scale(1.2);
     -ms-transform: scale(1.2);
